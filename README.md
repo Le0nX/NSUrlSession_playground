@@ -2,7 +2,7 @@
 Изучаем NSUrlSession
 
 ### URLSessionConfiguration 
-Может быть двух видов: 
+Может быть трех типов: 
 
 * default
 * ephemeral (не хранит куки, credentials, кэш)
